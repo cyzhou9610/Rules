@@ -3,14 +3,14 @@
 # REPO: https://github.com/cyzhou9610/Rules
 # UPDATED: 2023-08-15
 
-#HOST-SUFFIX,usercontent.dev,Telegram
-#HOST-KEYWORD,nicegram,Telegram
-#IP-CIDR,109.239.140.0/24,Telegram
-#IP6-CIDR,2001:67c:4e8::/48,Telegram
-#IP-ASN,211157,Telegram
+#HOST-SUFFIX,usercontent.dev,Custom
+#HOST-KEYWORD,nicegram,Custom
+#IP-CIDR,109.239.140.0/24,Custom
+#IP6-CIDR,2001:67c:4e8::/48,Custom
+#IP-ASN,211157,Custom
 
 #logi
-HOST-SUFFIX,logitech.io,Telegram
+HOST-SUFFIX,logitech.io,Custom
 
 #google update
 HOST-SUFFIX,update.googleapis.com,Custom
