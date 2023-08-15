@@ -1,1 +1,1 @@
-# ios_rule_script
+# Rules
