@@ -1,4 +1,4 @@
-# NAME: Custom_Reject
+# NAME: Custom_Proxy
 # AUTHOR: cyzhou
 # REPO: https://github.com/cyzhou9610/Rules
 # UPDATED: 2023-08-18
@@ -9,8 +9,6 @@
 #IP6-CIDR,2001:67c:4e8::/48,Custom
 #IP-ASN,211157,Custom
 
-#logi
-HOST-SUFFIX,logitech.io,Custom_Reject
+HOST-SUFFIX,veracode.com,Custom_Proxy
 
-#google update
-HOST-SUFFIX,update.googleapis.com,Custom_Reject
+HOST-KEYWORD,leetcode,Custom_Proxy
