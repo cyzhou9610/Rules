@@ -14,3 +14,6 @@ HOST-SUFFIX,logitech.io,Custom_Reject
 
 #google update
 HOST-SUFFIX,update.googleapis.com,Custom_Reject
+
+#sublimetext
+HOST-KEYWORD,sublimetext,Custom_Reject
