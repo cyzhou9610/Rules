@@ -10,5 +10,6 @@
 #IP-ASN,211157,Custom
 
 HOST-SUFFIX,veracode.com,Custom_Proxy
+HOST-SUFFIX,sublimetext.com,Custom_Proxy
 
 HOST-KEYWORD,leetcode,Custom_Proxy
